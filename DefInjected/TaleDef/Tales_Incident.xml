@@ -65,22 +65,23 @@
   <Infestation.rulePack.rulesStrings.18>desc_sentence->Земля покрыта [gore].</Infestation.rulePack.rulesStrings.18>
   <Infestation.rulePack.rulesStrings.19>desc_sentence->Все животные покинули этот район.</Infestation.rulePack.rulesStrings.19>
 
-  <Eclipse.label>eclipse</Eclipse.label>
-  <Eclipse.rulePack.rulesStrings.0>tale_noun->an eclipse over [pawn_nameShortDef]'s [community]</Eclipse.rulePack.rulesStrings.0>
-  <Eclipse.rulePack.rulesStrings.1>image->an unnaturally dark sky, [circumstance_phrase]</Eclipse.rulePack.rulesStrings.1>
-  <Eclipse.rulePack.rulesStrings.2>image->a crepuscular sky, [circumstance_phrase]</Eclipse.rulePack.rulesStrings.2>
-  <Eclipse.rulePack.rulesStrings.3>image->a moon, ringed by a faint circle of sunlight, [circumstance_phrase]</Eclipse.rulePack.rulesStrings.3>
-  <Eclipse.rulePack.rulesStrings.4>image->[quantity_adjphrase] [animal]s milling around uncertainly in darkness, [circumstance_phrase]</Eclipse.rulePack.rulesStrings.4>
-  <Eclipse.rulePack.rulesStrings.5>circumstance_phrase->the air still and quiet</Eclipse.rulePack.rulesStrings.5>
-  <Eclipse.rulePack.rulesStrings.6>circumstance_phrase->twilight blanketing a nearby [terrainfeature]</Eclipse.rulePack.rulesStrings.6>
-  <Eclipse.rulePack.rulesStrings.7>circumstance_phrase->twilight blanketing [quantity_adjphrase] nearby [terrainfeature]s</Eclipse.rulePack.rulesStrings.7>
-  <Eclipse.rulePack.rulesStrings.8>circumstance_phrase->with stars visible</Eclipse.rulePack.rulesStrings.8>
-  <Eclipse.rulePack.rulesStrings.9>desc_sentence->Below, [pawn_nameShortDef] plays [game] with a [friendlyadjective] look.</Eclipse.rulePack.rulesStrings.9>
-  <Eclipse.rulePack.rulesStrings.10>desc_sentence->[pawn_nameShortDef] watches with awe on [pawn_possessive] face.</Eclipse.rulePack.rulesStrings.10>
-  <Eclipse.rulePack.rulesStrings.11>desc_sentence->[quantity_adjphrase] [outlander]s watch from below.</Eclipse.rulePack.rulesStrings.11>
-  <Eclipse.rulePack.rulesStrings.12>desc_sentence->[pawn_nameShortDef] sits near a [terrainfeature], gazing at the sky.</Eclipse.rulePack.rulesStrings.12>
-  <Eclipse.rulePack.rulesStrings.13>desc_sentence->A [community] of spectators watches the sky peacefully.</Eclipse.rulePack.rulesStrings.13>
-  <Eclipse.rulePack.rulesStrings.14>desc_sentence->There is no [enemy] in sight.</Eclipse.rulePack.rulesStrings.14>
+  <Eclipse.label>затмение</Eclipse.label>
+  <Eclipse.rulePack.rulesStrings.0>tale_noun->как [community], где живёт [pawn_nameShortDef], попадает в зону затмения</Eclipse.rulePack.rulesStrings.0>
+  <Eclipse.rulePack.rulesStrings.1>image->[empty] неестественно тёмное небо, [circumstance_phrase]</Eclipse.rulePack.rulesStrings.1>
+  <Eclipse.rulePack.rulesStrings.2>image->[empty] почти ночное небо, [circumstance_phrase]</Eclipse.rulePack.rulesStrings.2>
+  <Eclipse.rulePack.rulesStrings.3>image->[empty] луну внутри тусклого солнечного ободка, [circumstance_phrase]</Eclipse.rulePack.rulesStrings.3>
+  <Eclipse.rulePack.rulesStrings.4>image->, как [animal] и ещё [quantity_adjphrase] животных неуверенно столпились в темноте, [circumstance_phrase]</Eclipse.rulePack.rulesStrings.4>
+  <Eclipse.rulePack.rulesStrings.5>circumstance_phrase->воздух неподвижен и тих</Eclipse.rulePack.rulesStrings.5>
+  <Eclipse.rulePack.rulesStrings.6>circumstance_phrase->[terrainfeature] укрывается в сумерках неподалёку</Eclipse.rulePack.rulesStrings.6>
+  <Eclipse.rulePack.rulesStrings.7>circumstance_phrase->сумерки окутывают окрестности</Eclipse.rulePack.rulesStrings.7>
+  <Eclipse.rulePack.rulesStrings.8>circumstance_phrase->видны звёзды</Eclipse.rulePack.rulesStrings.8>
+  <Eclipse.rulePack.rulesStrings.9>desc_sentence->Ниже [pawn_nameShortDef] играет в [game], бросая вверх [friendlyadjective] взгляд.</Eclipse.rulePack.rulesStrings.9>
+  <Eclipse.rulePack.rulesStrings.10>desc_sentence->[pawn_nameShortDef] с трепетом следит за [pawn_possessive] лицом.</Eclipse.rulePack.rulesStrings.10>
+  <Eclipse.rulePack.rulesStrings.11>desc_sentence->[animal] и ещё [quantity_adjphrase] чужеземцев смотрят снизу вверх.</Eclipse.rulePack.rulesStrings.11>
+  <Eclipse.rulePack.rulesStrings.12>desc_sentence->Виднеется [terrainfeature], рядом сидит [pawn_nameShortDef] и глядит на небо.</Eclipse.rulePack.rulesStrings.12>
+  <Eclipse.rulePack.rulesStrings.13>desc_sentence->[community] со всеми жителями спокойно смотрит на небо.</Eclipse.rulePack.rulesStrings.13>
+  <Eclipse.rulePack.rulesStrings.14>desc_sentence->Ни один [enemy] не виден в поле зрения.</Eclipse.rulePack.rulesStrings.14>
+
   <JourneyOffer.label>journey offer</JourneyOffer.label>
   <JourneyOffer.rulePack.rulesStrings.0>tale_noun->[pawn_nameShortDef] receiving a message from an old friend</JourneyOffer.rulePack.rulesStrings.0>
   <JourneyOffer.rulePack.rulesStrings.1>tale_noun->an opportunity arriving for [pawn_nameShortDef]'s [community]</JourneyOffer.rulePack.rulesStrings.1>
