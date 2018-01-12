@@ -65,4 +65,50 @@
   <Infestation.rulePack.rulesStrings.18>desc_sentence->Земля покрыта [gore].</Infestation.rulePack.rulesStrings.18>
   <Infestation.rulePack.rulesStrings.19>desc_sentence->Все животные покинули этот район.</Infestation.rulePack.rulesStrings.19>
 
+  <Eclipse.label>eclipse</Eclipse.label>
+  <Eclipse.rulePack.rulesStrings.0>tale_noun->an eclipse over [pawn_nameShortDef]'s [community]</Eclipse.rulePack.rulesStrings.0>
+  <Eclipse.rulePack.rulesStrings.1>image->an unnaturally dark sky, [circumstance_phrase]</Eclipse.rulePack.rulesStrings.1>
+  <Eclipse.rulePack.rulesStrings.2>image->a crepuscular sky, [circumstance_phrase]</Eclipse.rulePack.rulesStrings.2>
+  <Eclipse.rulePack.rulesStrings.3>image->a moon, ringed by a faint circle of sunlight, [circumstance_phrase]</Eclipse.rulePack.rulesStrings.3>
+  <Eclipse.rulePack.rulesStrings.4>image->[quantity_adjphrase] [animal]s milling around uncertainly in darkness, [circumstance_phrase]</Eclipse.rulePack.rulesStrings.4>
+  <Eclipse.rulePack.rulesStrings.5>circumstance_phrase->the air still and quiet</Eclipse.rulePack.rulesStrings.5>
+  <Eclipse.rulePack.rulesStrings.6>circumstance_phrase->twilight blanketing a nearby [terrainfeature]</Eclipse.rulePack.rulesStrings.6>
+  <Eclipse.rulePack.rulesStrings.7>circumstance_phrase->twilight blanketing [quantity_adjphrase] nearby [terrainfeature]s</Eclipse.rulePack.rulesStrings.7>
+  <Eclipse.rulePack.rulesStrings.8>circumstance_phrase->with stars visible</Eclipse.rulePack.rulesStrings.8>
+  <Eclipse.rulePack.rulesStrings.9>desc_sentence->Below, [pawn_nameShortDef] plays [game] with a [friendlyadjective] look.</Eclipse.rulePack.rulesStrings.9>
+  <Eclipse.rulePack.rulesStrings.10>desc_sentence->[pawn_nameShortDef] watches with awe on [pawn_possessive] face.</Eclipse.rulePack.rulesStrings.10>
+  <Eclipse.rulePack.rulesStrings.11>desc_sentence->[quantity_adjphrase] [outlander]s watch from below.</Eclipse.rulePack.rulesStrings.11>
+  <Eclipse.rulePack.rulesStrings.12>desc_sentence->[pawn_nameShortDef] sits near a [terrainfeature], gazing at the sky.</Eclipse.rulePack.rulesStrings.12>
+  <Eclipse.rulePack.rulesStrings.13>desc_sentence->A [community] of spectators watches the sky peacefully.</Eclipse.rulePack.rulesStrings.13>
+  <Eclipse.rulePack.rulesStrings.14>desc_sentence->There is no [enemy] in sight.</Eclipse.rulePack.rulesStrings.14>
+  <JourneyOffer.label>journey offer</JourneyOffer.label>
+  <JourneyOffer.rulePack.rulesStrings.0>tale_noun->[pawn_nameShortDef] receiving a message from an old friend</JourneyOffer.rulePack.rulesStrings.0>
+  <JourneyOffer.rulePack.rulesStrings.1>tale_noun->an opportunity arriving for [pawn_nameShortDef]'s [community]</JourneyOffer.rulePack.rulesStrings.1>
+  <JourneyOffer.rulePack.rulesStrings.2>image->[pawn_nameShortDef] opening a letter delivered by [delivery_method] while [circumstance_group]</JourneyOffer.rulePack.rulesStrings.2>
+  <JourneyOffer.rulePack.rulesStrings.3>image->[pawn_nameShortDef] using a datacrystal delivered by [delivery_method] while [circumstance_group]</JourneyOffer.rulePack.rulesStrings.3>
+  <JourneyOffer.rulePack.rulesStrings.4>image->[pawn_nameShortDef] unrolling a scroll delivered by [delivery_method] while [circumstance_group]</JourneyOffer.rulePack.rulesStrings.4>
+  <JourneyOffer.rulePack.rulesStrings.5>image->[pawn_nameShortDef] receiving a transmission from [transmission_source] while [circumstance_group]</JourneyOffer.rulePack.rulesStrings.5>
+  <JourneyOffer.rulePack.rulesStrings.6>image->[pawn_nameShortDef] receiving a message from [transmission_source] while [circumstance_group]</JourneyOffer.rulePack.rulesStrings.6>
+  <JourneyOffer.rulePack.rulesStrings.7>image->[pawn_nameShortDef] tuning in to a message from [transmission_source] while [circumstance_group]</JourneyOffer.rulePack.rulesStrings.7>
+  <JourneyOffer.rulePack.rulesStrings.8>delivery_method->a [animal]</JourneyOffer.rulePack.rulesStrings.8>
+  <JourneyOffer.rulePack.rulesStrings.9>delivery_method->a [outlander]</JourneyOffer.rulePack.rulesStrings.9>
+  <JourneyOffer.rulePack.rulesStrings.10>delivery_method->[quantity_adjphrase] [animal]s</JourneyOffer.rulePack.rulesStrings.10>
+  <JourneyOffer.rulePack.rulesStrings.11>transmission_source->a rarely-used frequency</JourneyOffer.rulePack.rulesStrings.11>
+  <JourneyOffer.rulePack.rulesStrings.12>transmission_source->an ancient transmitter</JourneyOffer.rulePack.rulesStrings.12>
+  <JourneyOffer.rulePack.rulesStrings.13>transmission_source->a low-power signal</JourneyOffer.rulePack.rulesStrings.13>
+  <JourneyOffer.rulePack.rulesStrings.14>transmission_source->a long-range signal</JourneyOffer.rulePack.rulesStrings.14>
+  <JourneyOffer.rulePack.rulesStrings.15>transmission_source->a mysterious signal</JourneyOffer.rulePack.rulesStrings.15>
+  <JourneyOffer.rulePack.rulesStrings.16>circumstance_phrase->standing alone near a [terrainfeature]</JourneyOffer.rulePack.rulesStrings.16>
+  <JourneyOffer.rulePack.rulesStrings.17>circumstance_phrase->exploring a [terrainfeature]</JourneyOffer.rulePack.rulesStrings.17>
+  <JourneyOffer.rulePack.rulesStrings.18>circumstance_phrase->tending crops</JourneyOffer.rulePack.rulesStrings.18>
+  <JourneyOffer.rulePack.rulesStrings.19>circumstance_phrase->a [animal] wanders past</JourneyOffer.rulePack.rulesStrings.19>
+  <JourneyOffer.rulePack.rulesStrings.20>circumstance_phrase->playing [game]</JourneyOffer.rulePack.rulesStrings.20>
+  <JourneyOffer.rulePack.rulesStrings.21>desc_sentence->[quantity_adjphrase] [animal]s wander nearby, unaware.</JourneyOffer.rulePack.rulesStrings.21>
+  <JourneyOffer.rulePack.rulesStrings.22>desc_sentence->As [pawn_pronoun] reads, [pawn_pronoun] starts [friendlyverb].</JourneyOffer.rulePack.rulesStrings.22>
+  <JourneyOffer.rulePack.rulesStrings.23>desc_sentence->A spectral [outlander] watches from the clouds.</JourneyOffer.rulePack.rulesStrings.23>
+  <JourneyOffer.rulePack.rulesStrings.24>desc_sentence->[pawn_nameShortDef] sits near a [terrainfeature].</JourneyOffer.rulePack.rulesStrings.24>
+  <JourneyOffer.rulePack.rulesStrings.25>desc_sentence->A [community] is visible in the far distance.</JourneyOffer.rulePack.rulesStrings.25>
+  <JourneyOffer.rulePack.rulesStrings.26>desc_sentence->A spaceship is visible in the far distance.</JourneyOffer.rulePack.rulesStrings.26>
+
+
 </LanguageData>
