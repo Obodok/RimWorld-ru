@@ -85,9 +85,9 @@
   <JourneyOffer.label>предложение путешествовать</JourneyOffer.label>
   <JourneyOffer.rulePack.rulesStrings.0>tale_noun->как [pawn_nameShortDef] получает сообщение от старого друга</JourneyOffer.rulePack.rulesStrings.0>
   <JourneyOffer.rulePack.rulesStrings.1>tale_noun->как [community], где живёт [pawn_nameShortDef], получает возможное место прибытия</JourneyOffer.rulePack.rulesStrings.1>
-  <JourneyOffer.rulePack.rulesStrings.2>image->, как [pawn_nameShortDef] открывает письмо, которое доставляет [delivery_method], [circumstance_group]</JourneyOffer.rulePack.rulesStrings.2>
-  <JourneyOffer.rulePack.rulesStrings.3>image->, как [pawn_nameShortDef] использует кристалл данных, который доставляет [delivery_method], [circumstance_group]</JourneyOffer.rulePack.rulesStrings.3>
-  <JourneyOffer.rulePack.rulesStrings.4>image->, как [pawn_nameShortDef] разворачивает свиток, который доставляет [delivery_method], [circumstance_group]</JourneyOffer.rulePack.rulesStrings.4>
+  <JourneyOffer.rulePack.rulesStrings.2>image->, как [pawn_nameShortDef] открывает письмо, которое доставил [delivery_method], [circumstance_group]</JourneyOffer.rulePack.rulesStrings.2>
+  <JourneyOffer.rulePack.rulesStrings.3>image->, как [pawn_nameShortDef] использует кристалл данных, который доставил [delivery_method], [circumstance_group]</JourneyOffer.rulePack.rulesStrings.3>
+  <JourneyOffer.rulePack.rulesStrings.4>image->, как [pawn_nameShortDef] разворачивает свиток, который доставил [delivery_method], [circumstance_group]</JourneyOffer.rulePack.rulesStrings.4>
   <JourneyOffer.rulePack.rulesStrings.5>image->, как [pawn_nameShortDef] принимает передачу от [transmission_source], [circumstance_group]</JourneyOffer.rulePack.rulesStrings.5>
   <JourneyOffer.rulePack.rulesStrings.6>image->, как [pawn_nameShortDef] принимает трансляцию от [transmission_source], [circumstance_group]</JourneyOffer.rulePack.rulesStrings.6>
   <JourneyOffer.rulePack.rulesStrings.7>image->, как [pawn_nameShortDef] перехватывает сообщение от [transmission_source], [circumstance_group]</JourneyOffer.rulePack.rulesStrings.7>
